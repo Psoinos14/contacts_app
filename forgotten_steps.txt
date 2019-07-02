@@ -1,0 +1,5 @@
+forgot controller method content
+forgot json file content for index
+needed to look at rest table to create show route
+needed to look at controller of minicapstoneapp to figure out what to write in show method
+had to view minicapstone controller for create
