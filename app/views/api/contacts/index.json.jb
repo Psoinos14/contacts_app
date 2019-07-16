@@ -8,6 +8,8 @@
     email: contact.email,
     phone_number: contact.phone_number,
     updated_at: contact.friendly_updated_at,
-    full_name: contact.full_name
+    full_name: contact.full_name,
+    user: current_user,
+    groups: contact.groups
   }
 end
